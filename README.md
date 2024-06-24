@@ -7,7 +7,7 @@ This project involves a detailed analysis of customer data using SQL. Key SQL te
 The dataset includes customer information, purchase history, and transaction details. The data was sourced from a retail database, consisting of multiple tables such as customers, orders, and products.
 
 ### Tools
-- SQL (SQL Server, MySQL)
+- SQL 
 - Data Cleaning and Transformation
 - Window Functions
 
